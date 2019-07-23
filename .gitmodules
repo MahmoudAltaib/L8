@@ -4,3 +4,6 @@
 [submodule "Interfacing-"]
 	path = Interfacing-
 	url = https://github.com/abkr97/Interfacing-
+[submodule "mayar"]
+	path = mayar
+	url = https://github.com/mayar153/interfacing
